@@ -1,4 +1,4 @@
-from bussinessblog import create_app,db
+from businessblog import create_app,db
 from flask_migrate import Migrate, MigrateCommand
 from flask_script import Manager, Server
 from bussinessblog.models import *
