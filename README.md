@@ -84,6 +84,10 @@ To run the tests for the class in your terminal
 
 $ python3.6 manage.py test
 
+# codebeat
+
+[![codebeat badge](https://codebeat.co/badges/f1d5145b-924b-44c4-ad8c-d895d45a9702)](https://codebeat.co/projects/github-com-wambuilucy-blog-post-deploy)
+
 # Known Bugs
 The side bar is not functioning
 Future implements
