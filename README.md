@@ -1,6 +1,6 @@
- # Blogs
+# Blogs
 
- Bussiness-Online
+Bussiness-Online
 
 ## Author
 Lucy Wambui Kinyanjui.
