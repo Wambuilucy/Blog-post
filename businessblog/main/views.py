@@ -163,3 +163,5 @@ def update_profile(id):
     return render_template("profile/update.html",
                             user = user,
                             form = form)
+    
+    
